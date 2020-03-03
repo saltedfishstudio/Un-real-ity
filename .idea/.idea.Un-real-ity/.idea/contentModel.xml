@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Github\Un-real-ity" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Core" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="Actor.cs" t="Include" />
+            <e p="ActorComponent.cs" t="Include" />
+            <e p="MeshComponent.cs" t="Include" />
+            <e p="Name.cs" t="Include" />
+            <e p="PrimitiveComponent.cs" t="Include" />
+            <e p="SceneComponent.cs" t="Include" />
+            <e p="StaticMeshComponent.cs" t="Include" />
+            <e p="Unreality.Core.asmdef" t="Include" />
+            <e p="UObject.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Un-real-ity.sln" t="IncludeFlat" />
+      <e p="Unreality.Core.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\J-DT\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\J-DT\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Un-real-ity.-1619888790.00" t="ExcludeRecursive" />
+  </component>
+</project>
